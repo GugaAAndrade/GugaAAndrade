@@ -1,13 +1,71 @@
-<h1 align="center">Hi 👋, I'm Gustavo Andrade</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+## Olá 👋, eu sou **Gustavo Andrade**
 
-- 📫 How to reach me **dev.gustavo.contato@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### Que bom te ver por aqui 🚀
 <p align="left">
-<a href="https://linkedin.com/in/guga-andrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guga-andrade" height="30" width="40" /></a>
-<a href="https://instagram.com/guga_andrade__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guga_andrade__" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gugaaandrade&label=Profile%20views&color=0e75b6&style=flat" alt="gugaaandrade"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Sou **Desenvolvedor Full Stack e Engenheiro de Software**, com forte atuação em **automação de processos (RPA)**, **desenvolvimento web moderno** e **integração de sistemas**.  
+Atuo na criação de soluções escaláveis, performáticas e bem arquitetadas, sempre focado em resolver problemas reais de negócio.
+
+---
+
+### 🚀 Atualmente
+- 🧠 Desenvolvendo **automações inteligentes (RPA + IA)** com **Python**
+- 🌐 Criando aplicações web modernas com **Next.js (React)**
+- ⚙️ Construindo **APIs REST** e integrações entre sistemas
+- 📱 Desenvolvendo **PWA** com foco em performance
+- ☁️ Trabalhando com **Firebase, Supabase, Docker e Vercel**
+
+<hr>
+
+### 👨‍💻 Sobre Mim
+- 🛠 Trabalho principalmente com **Python, Next.js, automação e APIs**
+- 🤖 Experiência sólida em **RPA, Web Scraping e bots**
+- 🚀 Apaixonado por performance, arquitetura e boas práticas
+- 📫 Contato: **dev.gustavo.contato@gmail.com**
+
+---
+
+### 🧰 Tech Stack
+| Categoria | Tecnologias |
+|---------|-------------|
+| **Backend** | Python • Node.js • APIs REST |
+| **Frontend** | Next.js • React • Tailwind CSS |
+| **Banco de Dados** | PostgreSQL • Firebase • Supabase |
+| **Automação / RPA** | Python • Bots • Web Scraping |
+| **Cloud & DevOps** | Docker • Firebase • Vercel |
+| **Ferramentas** | Git • VS Code • Postman |
+| **Boas Práticas** | Clean Code • SOLID • Scrum |
+
+---
+
+### 🧠 Linguagens e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,tailwind,docker,postgres,firebase,supabase,git,github,vscode,linux,windows)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugaaandrade&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugaaandrade&layout=compact&hide_border=true&langs_count=8"/>
+</p>
+
+---
+
+### ⚙️ Ambiente de Trabalho
+- 💻 **SO:** macOS / Windows  
+- 🖥 **Máquinas:** MacBook / Desktop  
+- 🌐 **Navegadores:** Chrome • Safari  
+- 🧑‍💻 **Editor:** VS Code  
+- 🧪 **Outras ferramentas:** Notion • Postman  
+
+---
+
+### 💡 Aberto a oportunidades
+Estou aberto a:
+- 🚀 Projetos freelance  
+- 🤝 Parcerias  
+- 💼 Oportunidades em **Full Stack, Automação e RPA**
+
+Se curtiu algo, **vamos conversar** 🚀
